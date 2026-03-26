@@ -1,23 +1,20 @@
-1. The Brand Persona: "The Silent Storyteller"
-The persona is an Academic Creative. She is a student at Charles University or FAMU, wearing a monochrome, structural outfit, let's say a charcoal grey coat, with a single, matte silver Koshkar-muiz pendant. She doesn't need to shout to be noticed; her jewelry invites a conversation rather than a glance.
+# Brand Persona: The Ethereal Nomad
 
-Traits: Intellectual, serene, culturally grounded, and avant-garde.
+## Identity Overview
+The **Ethereal Nomad** is a bridge between two worlds: the vast, historical soul of the Kazakh Steppe and the refined, cobblestone intellect of Prague. This persona represents the "Modern Zerger" (jeweler)—someone who respects the weight of history but breathes the air of contemporary minimalism.
 
-Voice: Measured and sophisticated. The language uses "we" to create a sense of belonging to a shared cultural evolution.
+## Core Traits
+* **Intellectual & Cultured:** Values the "why" behind the ornament. They don’t just wear jewelry; they wear a narrative.
+* **Serene & Grounded:** Prefers "quiet luxury" and "slow fashion" over loud, fast-paced trends.
+* **Artistic Minimalist:** Believes that a single, meaningful line is more powerful than a wall of decoration.
+* **Ethically Conscious:** Deeply connected to the idea of "continuity"—preserving heritage by evolving it for a global context.
 
-Vibe: An art gallery in Holešovice meets a quiet morning on the Almaty highlands.
+## Brand Voice & Tone
+* **Soft & Rhythmic:** The language feels like a whisper of history. It is poetic and evocative, yet remains clean and uncluttered.
+* **Inviting & Academic:** Speaks to international students as peers in a journey of discovery. It is informative and sophisticated without being distant.
+* **Modern Zen:** Uses terminology that evokes lightness, air, and "the eternal sky" (*Tengri*).
 
-2. Color Palette: "Tengri Minimalism"
-We are using the "Eternal Sky" of Kazakh heritage but desaturating it to fit the "Old World" stone textures of Prague.
-
-Primary Color: #B2C9D6 (Dusty Caspian)
-
-Why: A muted, pastel blue that feels like silk and silver. It is the "modern femininity" you described—calm, pure, and airy.
-
-Accent Color: #D1C7B7 (Silver-Birch Sand)
-
-Why: A warm, matte neutral that mimics the "matte silver" finish of the jewelry and provides a soft, editorial backdrop for the blue.
-
-3. Hero Section Welcome Message
-"Heritage, Redefined in Silence."
-Discover ethno-minimalism born from the Great Steppe and curated for the heart of Prague. We transform ancient Kazakh symbols into modern silver talismans—for a generation that carries history with grace
+## Visual Language (The "Vibe")
+* **Textures:** Matte silver, raw linen, frosted glass, and the soft grain of old Prague limestone.
+* **Color Mood:** The primary palette of **#A8D1DF (Sky Silk Blue)** and **#E5DED1 (Sandstone Parchment)** creates a visual "breath of fresh air."
+* **Composition:** High use of negative space in digital layouts to allow the "Main Symbol" (such as the *Koshkar-muiz*) to breathe and stand out as a piece of art.
