@@ -1,0 +1,3 @@
+ GTM-MPD8NXS8
+G-F62PMNT2FN
+I am tracking lead generation events through the "GA4 - Event - Generated Lead" tag, which fires when a user completes a specific action on the Melio Serenity site.
