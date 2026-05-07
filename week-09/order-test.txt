@@ -1,0 +1,11 @@
+1. The Friction Test: How many clicks does it take from landing on your homepage to completing an order?
+
+It took exactly 5 clicks: 1 to open the "Book Online" page, 1 to select the Jewelry, 1 to choose the type of jewelry , 1 to add it to the cart, 1 to proceed to checkout, and 1 to place the order.
+
+2. Product Logic: Describe your "Variable" product. What options did you give the user?
+
+My variable product is the "Shash bay, Syrga,Tumar". I gave the user the choice of Kazakh jewelry , with three  specific options
+
+3. Inventory: What happened to the "Presedentional Suite" page after you placed a test order for one?
+
+ After placing the order, the stock for the "Presidential Suite" automatically decreased from 5 to 4 units. Since the stock is now low, the product page now displays a "Low Stock" warning to create urgency for other guests.
